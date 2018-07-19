@@ -3,20 +3,20 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: 'My Site',
+    siteName: 'lelmao | Prim',
 
     // Tagline for your site
-    siteTagline: 'Your site tagline',
+    siteTagline: 'Prim',
 
     // Email address
-    siteEmail: 'your_email@example.com',
+    siteEmail: 'acneo2000@gmail.com',
 
     // Name
-    siteAuthor: 'Your Name',
+    siteAuthor: 'Prim',
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+      { name: 'Github', href: 'https://github.com/AcNEO', newWindow: false},
       { name: 'About'}
     ],
 
@@ -45,11 +45,11 @@ $(function() {
     fadeSpeed: 300,
 
     // Site footer text
-    footerText: '&copy; ' + new Date().getFullYear() + ' All Rights Reserved.',
+    footerText: '&copy; ' + new Date().getFullYear() + ' Prim. All Rights Reserved.',
 
     // Mode 'Github' for Github Pages, 'Server' for Self Hosted. Defaults
     // to Github
-    mode: 'Github',
+    mode: 'Server',
 
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
